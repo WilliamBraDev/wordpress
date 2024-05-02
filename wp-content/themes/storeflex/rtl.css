@@ -1,0 +1,25 @@
+.storeflex-middle-header .header-woo-links-wrap,
+.storeflex-search-overlay .header-woo-links-wrap,.storeflex-footer .storeflex-social-icons-wrapper{
+    margin-right:auto;
+    margin-left: unset;
+}
+
+.widget span.wc-block-product-categories-list-item-count{
+    padding: 5px 0px 5px 5px;
+}
+
+.sidebar-layout--left-sidebar #primary, .home.sidebar-layout--left-sidebar #primary{
+    float: left;
+}
+
+#left-secondary, #shop-secondary, .home.blog #left-secondary{
+    float: right;
+}
+
+.single.woocommerce .woocommerce-product-rating .star-rating{
+    float: left;
+}
+
+.woocommerce-tabs ul.tabs{
+    text-align: right;
+}

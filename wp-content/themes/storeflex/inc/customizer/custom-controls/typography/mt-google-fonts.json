@@ -1,0 +1,107 @@
+[    
+    {
+        "Jost": {
+            "variants": [
+                "300",
+                "400",
+                "500",
+                "600",
+                "700"
+            ],
+            "category": "sans-serif"
+        }
+    },
+    {
+        "Josefin Sans": {
+            "variants": [
+                "100",
+                "200",
+                "300",
+                "regular",
+                "500",
+                "600",
+                "700",
+                "100italic",
+                "200italic",
+                "300italic",
+                "italic",
+                "500italic",
+                "600italic",
+                "700italic"
+            ],
+            "category": "sans-serif"
+        }
+    },
+    {
+        "Roboto": {
+            "variants": [
+                "100",
+                "100italic",
+                "300",
+                "300italic",
+                "regular",
+                "italic",
+                "500",
+                "500italic",
+                "700",
+                "700italic",
+                "900",
+                "900italic"
+            ],
+            "category": "sans-serif"
+        }
+    },
+    {
+        "Inter": {
+            "variants": [
+                "100",
+                "200",
+                "300",
+                "regular",
+                "500",
+                "600",
+                "700",
+                "800",
+                "900"
+            ],
+            "category": "sans-serif"
+        }
+    },
+    {
+        "Oswald": {
+            "variants": [
+                "regular",
+                "500",
+                "600",
+                "700"
+            ],
+            "category": "sans-serif"
+        }
+    },
+    {
+        "Raleway": {
+            "variants": [
+                "100",
+                "100italic",
+                "200",
+                "200italic",
+                "300",
+                "300italic",
+                "regular",
+                "italic",
+                "500",
+                "500italic",
+                "600",
+                "600italic",
+                "700",
+                "700italic",
+                "800",
+                "800italic",
+                "900",
+                "900italic"
+            ],
+            "category": "sans-serif"
+        }
+    }
+    
+]

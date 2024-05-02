@@ -1,0 +1,18 @@
+== 1.0.4: 2024-04-24 ==
+- Imp: Child theme compatible dashboard.
+- Fix: Sidebar issue fixed.
+- Fix: Styling issue fixed.
+
+== 1.0.3: 2024-03-14 ==
+- Fix: Styling issue fixed.
+- Fix: Div Pattern Updated.
+
+== 1.0.2: 2024-03-11 ==
+- Fix: Styling issue fixed.
+
+== 1.0.1: 2024-03-11 ==
+- New: Added theme upsell in customizer section.
+- Fix: Responsive design in cart section.
+
+== 1.0.0: 2024-02-16 ==
+- New: Submitted on trac.

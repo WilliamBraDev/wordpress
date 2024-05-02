@@ -1,0 +1,51 @@
+/*
+Theme Name:			MixMart
+Theme URI:          https://demo.mysterythemes.com/child-theme/mixmart/
+Author:       		Mystery Themes
+Author URI:   		https://mysterythemes.com/
+Description:  		Mixmart is a powerful e-commerce theme of storeflex that comes with a variety of advanced features and customization options. It offers a variety of presentation styles and features, all of which are designed to increase user engagement and conversions. Check out our pre-build demos here: https://preview.mysterythemes.com/storeflex-demos/
+Version:            1.0.1
+Requires at least:  5.6
+Tested up to:       6.5
+Requires PHP:       7.2
+License:      		GNU General Public License v3 or later
+License URI:  		http://www.gnu.org/licenses/gpl-3.0.html
+Template:     		storeflex
+Text Domain:  		mixmart
+Tags:         		e-commerce, food-and-drink, portfolio, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, featured-images, flexible-header, footer-widgets, rtl-language-support, theme-options, threaded-comments, translation-ready
+
+*/
+/* Banner design */
+.storeflex-banner-wrapper .storeflex-container{
+    grid-template-columns: 69% 30%;
+    gap:1%;
+}
+
+
+.storeflex-banner-wrapper .lSSlideWrapper, .storeflex-banner-wrapper .storeflex-feature .post-thumbnail-wrap img{
+    border-radius: 10px;
+}
+
+#site-navigation .menu-item-description{
+    right:-10px;
+}
+
+.storeflex-category-block-wrapper .category-image{
+    padding: 0px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.13);
+}
+
+.storeflex-title, .related.products h2{
+    padding: 70px 0px;
+}
+
+.storeflex-product-grid-block .storeflex-product-grid-wrapper li.product{
+    width: 23%;
+    margin: 0 -4px 5% 2%;
+
+}
+
+.woocommerce-active ul.products li.product>.yith-wcqv-button,.woocommerce-active li.product>.yith-wcqv-button{
+    display: none !important;
+}
+

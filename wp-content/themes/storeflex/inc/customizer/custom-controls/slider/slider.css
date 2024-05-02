@@ -1,0 +1,205 @@
+/**
+ * Custom Style for Slider Control
+ *
+ * @package StoreFlex
+ */
+.customize-control-mt-slider .control-wrap {
+	display: inline-block;
+	width: 100%;
+}
+
+.customize-control-mt-slider .mt-slider {
+	display: inline-block;
+	position: relative;
+	width: 67%;
+	height: 4px;
+	margin-top: 12px;
+	background-color: rgba(0, 0, 0, 0.15);
+	border-radius: 5px;
+	cursor: pointer;
+	-webkit-transition: background 0.5s;
+	-moz-transition: background 0.5s;
+	transition: background 0.5s;
+}
+
+.customize-control-mt-slider .mt-slider:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.customize-control-mt-slider .mt-slider .ui-slider-range {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	height: 100%;
+	background-color: #13a1dc;
+}
+
+.customize-control-mt-slider .mt-slider .ui-slider-handle {
+	height: 16px;
+	width: 16px;
+	background-color: #fff;
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%) translateX(-4px);
+	transform: translateY(-50%) translateX(-4px);
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.customize-control-mt-slider .mt-slider-input {
+	float: right;
+	width: 33%;
+}
+
+.customize-control-mt-slider input.slider-input {
+	float: left;
+	width: 60%;
+	height: 28px;
+	text-align: center;
+	border-radius: 4px;
+	padding: 3px;
+	font-size: 12px;
+	font-weight: 600;
+	color: #555;
+	margin: 0 10px;
+}
+
+.mt-slider-unit {
+	font-weight: 600;
+	margin-top: 3px;
+	display: block;
+}
+
+/* =================================
+   Responsive Switcher
+   ================================= */
+.customize-control.has-switchers .customize-control-title {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	line-height: 1;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.customize-control.has-switchers .customize-control-title span {
+	line-height: 20px;
+}
+
+.customize-control .responsive-switchers {
+	margin-left: 5px;
+	width: auto;
+}
+
+/*.customize-control .responsive-switchers li:not(.desktop) {
+	display: none;
+}*/
+.customize-control.responsive-switchers-open .responsive-switchers li {
+	display: block;
+}
+
+.customize-control .responsive-switchers li {
+	float: left;
+	margin: 0;
+}
+
+.customize-control .responsive-switchers li button {
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	background-color: #a4afb7;
+	cursor: pointer;
+	position: relative;
+	margin-left: 5px;
+	color: #fff;
+	font-size: 10px;
+	text-align: center;
+	border-radius: 50%;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	-webkit-transition: background-color 0.5s;
+	transition: background-color 0.5s;
+	cursor: pointer;
+}
+
+.customize-control .responsive-switchers li button:hover {
+	background-color: #c2cbd2;
+}
+
+.customize-control .responsive-switchers li button.active {
+	background-color: #13aff0;
+}
+
+.customize-control .responsive-switchers li button i {
+	width: auto;
+	height: auto;
+	font-size: inherit;
+	line-height: 18px;
+}
+
+.customize-control.has-switchers>.control-wrap:not(.active) {
+	display: none;
+	width: 100%;
+}
+
+.customize-control-code_editor .CodeMirror {
+	height: calc(100vh - 185px);
+}
+
+#customize-footer-actions .devices-wrapper .devices button::before {
+	vertical-align: unset;
+}
+
+body.rtl .customize-control-checkbox input[type="checkbox"] {
+	margin: 0 0 0 6px;
+}
+
+body.rtl .customize-control-checkbox input[type="checkbox"]:checked:before, body.rtl .customize-control-ocean-multi-check input[type="checkbox"]:checked:before {
+	right: 0;
+	left: auto;
+}
+
+body.rtl .customize-control .responsive-switchers, body.rtl .customize-control .responsive-switchers li button {
+	margin-right: 5px;
+	margin-left: 0;
+}
+
+body.rtl .customize-control .responsive-switchers li {
+	float: right;
+}
+
+@media screen and (max-width:768px) {
+	body .customize-control .responsive-switchers {
+		display: none;
+	}
+
+	body .customize-control.has-switchers>.control-wrap:not(.active) {
+		display: inline-block;
+	}
+
+}
+
+@media screen and (min-width:481px) and (max-width:768px) {
+	body .customize-control.has-switchers>.control-wrap {
+		display: inline-block;
+	}
+
+	body .customize-control.has-switchers>.control-wrap:not(.tablet) {
+		display: none;
+	}
+
+}
+
+@media screen and (max-width:480px) {
+	body .customize-control.has-switchers>.control-wrap {
+		display: inline-block;
+	}
+
+	body .customize-control.has-switchers>.control-wrap:not(.mobile) {
+		display: none;
+	}
+
+}

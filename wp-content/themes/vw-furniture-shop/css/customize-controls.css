@@ -1,0 +1,18 @@
+li#accordion-section-vw_furniture_shop_go_pro {
+	display: block !important;
+}
+#accordion-section-vw_furniture_shop_go_pro h3.accordion-section-title{
+    background: #D1B7A0 !important;
+    color: #fff !important;
+    font-size: 13px;
+    padding: 15px 15px 15px 10px;
+}
+a.button.button-secondary.alignright {
+    color: #D1B7A0 !important;
+    background: #FFF !important;
+    font-size: 14px;
+    margin: -5px !important;
+    border-radius: 0 !important;
+    border: none !important;
+    font-size: 14px;
+}

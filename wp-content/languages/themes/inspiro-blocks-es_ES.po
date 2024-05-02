@@ -1,0 +1,1446 @@
+# Translation of Themes - Inspiro Blocks in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Inspiro Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-21 12:23:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Inspiro Blocks\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Inspiro Blocks is a Block theme that is fully compatible with the new Full Site Editor. The theme includes unique page templates, block patterns, and color styles that can be customized to create a beautiful website. With Inspiro Blocks, you can easily build and design a website by simply dragging and dropping blocks into pages. The theme offers a modern and minimalist design that is perfect for bloggers, photographers, creatives, and small businesses. Inspiro Blocks is also an excellent choice for portfolio sites as it includes video and portfolio integration. This makes it easy for users to showcase their work and create a professional portfolio website. With the portfolio integration feature, users can display their projects in a grid or masonry layout. These features make Inspiro Blocks a great option for photographers, videographers, designers, and other creatives who want to showcase their work in a visually appealing way. The theme is fully GDPR-compliant and doesn't use any external Google Fonts. All fonts are locally hosted. The theme bundles 6 Color Schemes and 20+ Block Patterns. DEMO CONTENT & Documentation can be found here: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#10132; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.wpzoom.com/documentation/inspiro-blocks/"
+msgstr "Inspiro Blocks es un tema de Bloques totalmente compatible con el nuevo Editor de sitios completo. El tema incluye plantillas de página únicas, patrones de bloques y estilos de color que se pueden personalizar para crear una web hermosa. Con Inspiro Blocks, puedes construir y diseñar fácilmente una web simplemente arrastrando y soltando bloques en las páginas. El tema ofrece un diseño moderno y minimalista que es perfecto para blogueros, fotógrafos, creativos y pequeñas empresas. Inspiro Blocks también es una opción excelente para sitios de porfolios, ya que incluye integración de vídeo y porfolios. Esto facilita a los usuarios mostrar su trabajo y crear una web de porfolio profesional. Con la característica de integración de porfolios, los usuarios pueden mostrar sus proyectos en un diseño de cuadrícula o de muro. Estas características hacen de Inspiro Blocks una gran opción para fotógrafos, videógrafos, diseñadores y otros creativos que quieran mostrar su trabajo de una forma visualmente atractiva. El tema cumple totalmente la normativa RGPD y no utiliza fuentes externas de Google Fonts. Todas las fuentes están alojadas localmente. El tema incluye 6 esquemas de color y más de 20 patrones de bloques. Puedes encontrar la documentación y el CONTENIDO DEMO aquí: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#10132; &nbsp;&nbsp;&nbsp;&nbsp; https://www.wpzoom.com/documentation/inspiro-blocks/"
+
+#. Theme Name of the theme
+#: inc/admin-notice.php:75 inc/classes/class-inspiro-notice-review.php:83
+#, gp-priority: high
+msgid "Inspiro Blocks"
+msgstr "Inspiro Blocks"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with no Title"
+msgstr "Página sin título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Header Image"
+msgstr "Página con imagen de cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Homepage [Free]"
+msgstr "Página de inicio [Gratuito]"
+
+#: inc/theme-info-page.php:531
+msgid "To ease up the journey you’re starting with Inspiro, we’re sending you some useful tips & tricks to have the best experience building your website."
+msgstr "Para facilitar el viaje que estás iniciando con Inspiro, te enviamos algunos útiles consejos y trucos para que tengas la mejor experiencia creando tu web."
+
+#: inc/theme-info-page.php:528
+msgid "Subscribe for Tips & Tricks"
+msgstr "Suscríbete a consejos y trucos"
+
+#: inc/theme-info-page.php:514
+msgid "Support Forums"
+msgstr "Foros de soporte"
+
+#: inc/theme-info-page.php:514
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/theme-info-page.php:512
+msgid "Documentation is the place where you’ll find the information needed to setup the theme quickly, and other details about theme-specific features. You can also get in touch with our team by contacting us through our website or using the Support Forum."
+msgstr "La documentación es el lugar donde encontrarás la información necesaria para configurar el tema rápidamente, y otros detalles acerca de características específicas del tema. También puedes ponerte en contacto con nuestro equipo a través de nuestra web o utilizando el foro de soporte."
+
+#: inc/theme-info-page.php:511
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: inc/theme-info-page.php:501
+msgid "Discover the PRO Version &rarr;"
+msgstr "Descubre la versión PRO &rarr;"
+
+#: inc/theme-info-page.php:496
+msgid "Upgrade to the Premium version to get instant access to unique features and dozen of pre-built demos!"
+msgstr "Actualiza a la versión Premium para obtener acceso instantáneo a características únicas y docenas de demos pre-construidas."
+
+#: inc/theme-info-page.php:472
+msgid "More demos are added with new major update!"
+msgstr "¡Se añaden más demos con la nueva gran actualización!"
+
+#: inc/theme-info-page.php:413
+msgid "Below you can demos available in the Inspiro Blocks PRO theme. You can get access to all of them by purchasing the PRO version of the theme."
+msgstr "A continuación puedes ver las demos disponibles en el tema Blocks PRO. Puedes acceder a todas ellas comprando la versión PRO del tema."
+
+#: inc/theme-info-page.php:412
+msgid "Inspiro Blocks PRO Demos"
+msgstr "Demos de Inspiro Blocks PRO"
+
+#: inc/theme-info-page.php:397
+msgid "Get Inspiro Blocks PRO Today!"
+msgstr "¡Obtener Inspiro Blocks PRO hoy!"
+
+#: inc/theme-info-page.php:390
+msgid "Fast Email Support"
+msgstr "Soporte rápido por correo electrónico"
+
+#: inc/theme-info-page.php:389
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/theme-info-page.php:383
+msgid "Typography Options"
+msgstr "Opciones de tipografía"
+
+#: inc/theme-info-page.php:378
+msgid "Google Fonts (Hosted Locally)"
+msgstr "Fuentes de Google (alojadas localmente)"
+
+#: inc/theme-info-page.php:373
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/theme-info-page.php:368
+msgid "Video & Image Lightbox for Portfolio Posts"
+msgstr "Caja de luz para vídeos e imágenes para las entradas del porfolio"
+
+#: inc/theme-info-page.php:363
+msgid "Video Background on Hover"
+msgstr "Fondo del video al pasar el cursor"
+
+#: inc/theme-info-page.php:358
+msgid "YouTube & Vimeo Backgrounds"
+msgstr "Fondos de YouTube y Vimeo"
+
+#: inc/theme-info-page.php:348
+msgid "Starter Sites"
+msgstr "Sitios de inicio"
+
+#: inc/theme-info-page.php:342
+msgid "Demo Content Importer"
+msgstr "Importador de contenido de demostración"
+
+#: inc/theme-info-page.php:337
+msgid "Advanced WooCommerce Integration"
+msgstr "Integración avanzada de WooCommerce"
+
+#: inc/theme-info-page.php:332
+msgid "Block Patterns"
+msgstr "Patrones de bloques"
+
+#: inc/theme-info-page.php:327
+msgid "Site Editor Support"
+msgstr "Compatibilidad con el editor del sitio"
+
+#: inc/theme-info-page.php:322
+msgid "Responsive Layout"
+msgstr "Diseño adaptable"
+
+#: inc/theme-info-page.php:317 inc/theme-info-page.php:495
+msgid "Inspiro Blocks PRO"
+msgstr "Inspiro Blocks PRO"
+
+#: inc/theme-info-page.php:316
+msgid "Inspiro Blocks Lite"
+msgstr "Inspiro Blocks Lite"
+
+#: inc/theme-info-page.php:315
+msgid "Feature"
+msgstr "Característica"
+
+#: inc/theme-info-page.php:308
+msgid "Below is a comparison chart of the free and the premium versions."
+msgstr "A continuación se muestra una tabla comparativa de las versiones gratuita y premium."
+
+#: inc/theme-info-page.php:307
+msgid "Inspiro Blocks Lite vs. Inspiro Blocks PRO"
+msgstr "Inspiro Blocks Lite vs. Inspiro Blocks PRO"
+
+#: inc/theme-info-page.php:297 inc/theme-info-page.php:475
+msgid "Get Inspiro Blocks PRO Today &rarr;"
+msgstr "Obtener Inspiro Blocks PRO hoy &rarr;"
+
+#: inc/theme-info-page.php:294
+msgid "And many other premium features..."
+msgstr "Y otras muchas características premium..."
+
+#: inc/theme-info-page.php:285
+msgid "Upgrading to the Premium version, you will get access to Multiple Header & Footer Layouts."
+msgstr "Al actualizar a la versión Premium, tendrás acceso a varios diseños de cabecera y pie de página."
+
+#: inc/theme-info-page.php:282
+msgid "Multiple Header & Footer Layouts"
+msgstr "Múltiples diseños de cabecera y pie de página"
+
+#: inc/theme-info-page.php:276
+msgid "The PRO version includes additional block patterns to help you build unique page layouts. You can find different patterns to add sections like pricing tables, call-to-actions and more!"
+msgstr "La versión PRO incluye patrones de bloques adicionales para ayudarte a crear diseños de página únicos. Puedes encontrar diferentes patrones para añadir secciones como tablas de precios, llamadas a la acción ¡y mucho más!"
+
+#: inc/theme-info-page.php:274
+msgid "40+ Block Patterns"
+msgstr "Más de 40 patrones de bloques"
+
+#: inc/theme-info-page.php:265
+msgid "Inspiro Blocks PRO Demos &rarr;"
+msgstr "Demos de Inspiro Blocks PRO &rarr;"
+
+#: inc/theme-info-page.php:264
+msgid "https://demo.wpzoom.com/inspiro-blocks-pro-demo"
+msgstr "https://demo.wpzoom.com/inspiro-blocks-pro-demo"
+
+#: inc/theme-info-page.php:261
+msgid "With the built-in demo importer, you can quickly import fully configured demos to help you get started. The theme includes beautiful demos to create a business or portfolio website."
+msgstr "Con el importador de demos incorporado, puedes importar rápidamente demos totalmente configuradas para ayudarte a dar tus primeros pasos. El tema incluye bonitas demos para crear una web empresarial o de porfolio."
+
+#: inc/theme-info-page.php:259
+msgid "Multiple Starter Sites"
+msgstr "Varios sitios de inicio"
+
+#: inc/theme-info-page.php:251
+msgid "Need to sell something? With the Inspiro theme, you can build your shop and start selling anything easily! The theme is fully compatible with the WooCommerce plugin."
+msgstr "¿Necesitas vender algo? ¡Con el tema Inspiro, puedes crear tu tienda y empezar a vender cualquier cosa fácilmente! El tema es totalmente compatible con el plugin WooCommerce."
+
+#: inc/theme-info-page.php:248
+msgid "WooCommerce Support"
+msgstr "Compatibilidad con WooCommerce"
+
+#: inc/theme-info-page.php:242
+msgid "Premium Portfolio Demo &rarr;"
+msgstr "Demo de porfolio premium &rarr;"
+
+#: inc/theme-info-page.php:241
+msgid "https://demo.wpzoom.com/inspiro-blocks-pro/portfolio/"
+msgstr "https://demo.wpzoom.com/inspiro-blocks-pro/portfolio/"
+
+#: inc/theme-info-page.php:238
+msgid "Inspiro Blocks PRO is perfect for showing off your portfolio, images and videos. The PRO version includes video features, such as video background on hover, video popups, etc. More premium features will be added with every major update!"
+msgstr "Inspiro Blocks PRO es perfecto para mostrar tu porfolio, imágenes y vídeos. La versión PRO incluye características de vídeo, como fondo de vídeo al pasar el cursor, ventanas emergentes de vídeo, etc. ¡Se añadirán más características premium con cada actualización importante!"
+
+#: inc/theme-info-page.php:235 inc/theme-info-page.php:353
+msgid "Portfolio with Video Integration"
+msgstr "Porfolio con integración de video"
+
+#: inc/theme-info-page.php:229
+msgid "Coming Soon"
+msgstr "Próximamente"
+
+#: inc/theme-info-page.php:224
+msgid "In the free version, you can display only an image or self-hosted video in the background of the cover block, while in the PRO version, you will soon be able to display YouTube & Vimeo videos."
+msgstr "En la versión gratuita, solo puedes mostrar una imagen o un vídeo autoalojado en el fondo del bloque de portada, mientras que en la versión PRO, pronto podrás mostrar vídeos de YouTube y Vimeo."
+
+#: inc/theme-info-page.php:221
+msgid "YouTube & Vimeo Video Backgrounds"
+msgstr "Fondos de vídeo de YouTube y Vimeo"
+
+#: inc/theme-info-page.php:216
+msgid "Premium Features"
+msgstr "Características premium"
+
+#: inc/theme-info-page.php:202
+msgid "How to Create a Portfolio?"
+msgstr "¿Cómo se crea un porfolio?"
+
+#: inc/theme-info-page.php:201
+msgid "https://www.wpzoom.com/documentation/inspiro-lite/inspiro-lite-how-to-create-a-portfolio-section/"
+msgstr "https://www.wpzoom.com/documentation/inspiro-lite/inspiro-lite-how-to-create-a-portfolio-section/"
+
+#: inc/theme-info-page.php:196
+msgid "Install WPZOOM Portfolio &rarr;"
+msgstr "Instalar el Porfolio de WPZOOM &rarr;"
+
+#: inc/theme-info-page.php:190
+msgid "Add a Portfolio Post &rarr;"
+msgstr "Añadir una entrada de porfolio &rarr;"
+
+#: inc/theme-info-page.php:182
+msgid "Using the free version of our WPZOOM Portfolio plugin, you can quickly create a Portfolio section on your website."
+msgstr "Utilizando la versión gratuita de nuestro plugin WPZOOM Portfolio puedes crear rápidamente una sección de porfolio en tu web."
+
+#: inc/theme-info-page.php:179
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: inc/theme-info-page.php:167
+msgid "If you have a logo image, you can upload it in the header using the Site Logo block."
+msgstr "Si tienes una imagen de logotipo, puedes subirla a la cabecera utilizando el bloque Logotipo del sitio."
+
+#: inc/theme-info-page.php:164
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: inc/theme-info-page.php:148 inc/theme-info-page.php:171
+msgid "See instructions &rarr;"
+msgstr "Ver instrucciones &rarr;"
+
+#: inc/theme-info-page.php:144
+msgid "You can quickly import pre-designed pages from the demo by inserting Block Patterns in pages."
+msgstr "Puedes importar rápidamente páginas prediseñadas de la demo insertando patrones de bloques en las páginas."
+
+#: inc/theme-info-page.php:141
+msgid "Import Demo Pages using Block Patterns"
+msgstr "Importar páginas de demostración utilizando patrones de bloques"
+
+#: inc/theme-info-page.php:132
+msgid "Customize the Site &rarr;"
+msgstr "Personalizar el sitio &rarr;"
+
+#: inc/theme-info-page.php:126
+msgid "Set up your global colors and fonts to match your site with your brand."
+msgstr "Configura tus colores globales y da estilo a tu sitio para que se ajuste a tu marca."
+
+#: inc/theme-info-page.php:123
+msgid "Colors & Fonts"
+msgstr "Colores y fuentes"
+
+#: inc/theme-info-page.php:109
+msgid "Customize the design and templates of your website easily using the Site Editor."
+msgstr "Personaliza el diseño y las plantillas de tu web fácilmente utilizando el editor del sitio."
+
+#: inc/theme-info-page.php:106
+msgid "Site Editor"
+msgstr "Editor del sitio"
+
+#: inc/theme-info-page.php:99
+msgid "Customize & Configure"
+msgstr "Personalizar y configurar"
+
+#: inc/theme-info-page.php:90
+msgid "Get the PRO version &rarr;"
+msgstr "Obtener la versión PRO &rarr;"
+
+#: inc/theme-info-page.php:86 inc/theme-info-page.php:115
+msgid "Go to Site Editor &rarr;"
+msgstr "Ir al editor del sitio &rarr;"
+
+#: inc/theme-info-page.php:82
+msgid "Thank you for installing the free version of our theme! Below you can find quick links to different sections where you can configure and customize the theme. The free version includes limited features and block patterns, but if you need more flexibility and plan to take your website to the next level, make sure to check the PRO version."
+msgstr "¡Gracias por instalar la versión gratuita de nuestro tema! A continuación puedes encontrar enlaces rápidos a diferentes secciones donde puedes configurar y personalizar el tema. La versión gratuita incluye características y opciones de personalización limitadas, pero si necesitas más flexibilidad y planeas llevar tu web al siguiente nivel, asegúrate de comprobar la versión PRO."
+
+#: inc/theme-info-page.php:81
+msgid "Welcome to Inspiro Blocks!"
+msgstr "¡Bienvenido a Inspiro Blocks!"
+
+#: inc/theme-info-page.php:69
+msgid "Premium Demos"
+msgstr "Demos premium"
+
+#: inc/theme-info-page.php:67
+msgid "Free vs. PRO"
+msgstr "Gratis vs PRO"
+
+#: inc/theme-info-page.php:65
+msgid "Quick Start"
+msgstr "Inicio rápido"
+
+#: inc/theme-info-page.php:21
+msgid "Inspiro Blocks Theme Dashboard"
+msgstr "Escritorio del tema Inspiro Blocks"
+
+#: inc/classes/class-inspiro-notices.php:130
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampa ¿eh?"
+
+#: inc/classes/class-inspiro-notice-review.php:108
+msgid "Hide this notice"
+msgstr "Esconder esta notificación"
+
+#: inc/classes/class-inspiro-notice-review.php:106
+msgid "Leave a Review"
+msgstr "Deja una reseña"
+
+#. Translators: %1$s current user display name.
+#: inc/classes/class-inspiro-notice-review.php:93
+msgid "We hope you are enjoying the %1$s theme! %2$sIf you can spare a moment, please consider adding a review on WordPress.org."
+msgstr "¡Esperamos que estés disfrutando del tema %1$s! %2$sSi tienes un momento, considera la posibilidad de añadir una reseña en WordPress.org."
+
+#: inc/admin-notice.php:95
+msgid "Discover Inspiro Blocks PRO &rarr;"
+msgstr "Descubre Inspiro Blocks PRO &rarr;"
+
+#: inc/admin-notice.php:94 inc/theme-info-page.php:89
+#: inc/theme-info-page.php:296 inc/theme-info-page.php:474
+msgid "https://www.wpzoom.com/themes/inspiro-blocks-pro/"
+msgstr "https://www.wpzoom.com/themes/inspiro-blocks-pro/"
+
+#. translators: %s: Inspiro theme
+#: inc/admin-notice.php:91
+msgid "%s Blocks Dashboard &rarr;"
+msgstr "%s Escritorio de bloques &rarr;"
+
+#. translators: %1$s: Inspiro theme %2$s: anchor tag open %3$s: anchor tag
+#. close
+#: inc/admin-notice.php:84
+msgid "Thank you for installing %1$s Blocks theme! To get started please make sure you visit the %2$sgetting started page%3$s."
+msgstr "¡Gracias por instalar el tema %1$s Blocks! Para dar los primeros pasos, asegúrate de visitar la página %2$scómo empezar%3$s."
+
+#: inc/admin-notice.php:80
+msgid "Discover Inspiro Blocks"
+msgstr "Descubre Inspiro Blocks"
+
+#: inc/admin-notice.php:70
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: inc/admin-notice.php:49
+msgid "You do not have the necessary permission to perform this action."
+msgstr "No tienes los permisos necesarios para realizar esta acción."
+
+#: inc/admin-notice.php:45 inc/classes/class-inspiro-notices.php:126
+msgid "Action failed. Please refresh the page and retry."
+msgstr "La acción ha fallado. Por favor, recarga la página e inténtalo de nuevo."
+
+#: styles/yeseva-one.json
+msgctxt "Style variation name"
+msgid "Yeseva One"
+msgstr "Yeseva One"
+
+#: styles/poppins.json
+msgctxt "Style variation name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: styles/montserrat.json
+msgctxt "Style variation name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: styles/epilogue.json
+msgctxt "Style variation name"
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#: styles/bitter.json
+msgctxt "Style variation name"
+msgid "Bitter"
+msgstr "Bitter"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Call-to-action"
+msgstr "Llamada a la acción en el pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Transparent) in Posts"
+msgstr "Cabecera (Transparente) en Entradas"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Transparent)"
+msgstr "Cabecera (transparente)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En blanco"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Portfolio Post"
+msgstr "Entrada de porfolio"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full-width Post"
+msgstr "Entrada de ancho completo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Sidebar"
+msgstr "Página con barra lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page with sidebar"
+msgstr "Página de blog con barra lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog"
+msgstr "Blog"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xLarge"
+msgstr "Extragrande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Mediano"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xSmall"
+msgstr "Extrapequeño"
+
+#: theme.json styles/epilogue.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Black to Tertiary"
+msgstr "De negro a terciario"
+
+#: theme.json styles/epilogue.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Secondary to Light"
+msgstr "De secundario a luz"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Light Background"
+msgstr "Fondo claro"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Blanco"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "LightGrey"
+msgstr "Gris claro"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Header & Footer"
+msgstr "Cabecera y pie de página"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Yeseva One"
+msgstr "Yeseva One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr "Work Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Urbanist"
+msgstr "Urbanist"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Space Grotesk"
+msgstr "Space Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rubik"
+msgstr "Rubik"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr "Raleway"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Quicksand"
+msgstr "Quicksand"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito"
+msgstr "Nunito"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Mulish"
+msgstr "Mulish"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Franklin"
+msgstr "Libre Franklin"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lexend"
+msgstr "Lexend"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr "Jost"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Sans"
+msgstr "Josefin Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Sans"
+msgstr "IBM Plex Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Crimson Pro"
+msgstr "Crimson Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bitter"
+msgstr "Bitter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Archivo"
+msgstr "Archivo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "72px"
+msgstr "72px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "60px"
+msgstr "60px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "48px"
+msgstr "48px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "36px"
+msgstr "36px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xLarge"
+msgstr "Extragrande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xSmall"
+msgstr "Extrapequeña"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: patterns/query-default.php
+msgctxt "Pattern title"
+msgid "List of posts in one column."
+msgstr "Lista de entradas en una columna."
+
+#: patterns/query-blog.php
+msgctxt "Pattern title"
+msgid "Classic blog layout"
+msgstr "Diseño clásico de blog"
+
+#: patterns/pricing-pro.php
+msgctxt "Pattern title"
+msgid "Pricing Table [PRO]"
+msgstr "Tabla de precios [PRO]"
+
+#: patterns/page-services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/page-front-page.php
+msgctxt "Pattern title"
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: patterns/page-contact.php
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr "Contacto"
+
+#: patterns/page-blog.php
+msgctxt "Pattern title"
+msgid "Blog page"
+msgstr "Página de blog"
+
+#: patterns/page-blog-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog page with sidebar"
+msgstr "Página del blog con barra lateral"
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About page"
+msgstr "Página «Acerca de»"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 error content."
+msgstr "Contenido del error 404."
+
+#: patterns/header-transparent.php
+msgctxt "Pattern title"
+msgid "Header (transparent)"
+msgstr "Cabecera (transparente)"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header with site title, navigation."
+msgstr "Cabecera con el título del sitio y la navegación."
+
+#: patterns/header-default-main-background.php
+msgctxt "Pattern title"
+msgid "Call-to-action with background"
+msgstr "Llamada a la acción con fondo"
+
+#: patterns/header-cover-blog-posts.php
+msgctxt "Pattern title"
+msgid "Header (single posts)"
+msgstr "Cabecera (entradas individuales)"
+
+#: patterns/general-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials with text."
+msgstr "Recomendaciones con texto."
+
+#: patterns/general-team-two-columns.php
+msgctxt "Pattern title"
+msgid "Team with image, text, social icons."
+msgstr "Equipo con imagen, texto e iconos sociales."
+
+#: patterns/general-pricing-three-columns.php
+msgctxt "Pattern title"
+msgid "Pricing table with list, buttons."
+msgstr "Tabla de precios con lista, botones."
+
+#: patterns/general-cta-button.php
+msgctxt "Pattern title"
+msgid "Call-to-action with text, button"
+msgstr "Llamada a la acción con texto, botón"
+
+#: patterns/general-cta-button-main-background.php
+msgctxt "Pattern title"
+msgid "Call-to-action with text, button."
+msgstr "Llamada a la acción con texto, botón."
+
+#: patterns/general-boxes-three.php
+msgctxt "Pattern title"
+msgid "Featured boxes with text, button."
+msgstr "Cajas destacadas con texto, botón."
+
+#: patterns/general-boxes-three-main-background.php
+msgctxt "Pattern title"
+msgid "Featured boxes with text, button"
+msgstr "Cajas destacadas con texto, botón"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/hidden-404.php:12
+msgid "Oops, the page you are looking for does not exist or is no longer available. Everything is still awesome. Just use the search form to find your way."
+msgstr "¡Vaya!, la página que buscas no existe o ya no está disponible. Todo sigue bien. Utiliza el formulario de búsqueda para encontrar lo que necesitas."
+
+#: patterns/hidden-404.php:9
+msgid "Not found, error 404"
+msgstr "Página no encontrada. Error 404"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ningún plugin ha sido seleccionado para ser activado. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ningún plugin ha sido seleccionado para actualizarse. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ningún plugin seleccionado para ser instalado. Ninguna acción a realizar."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima obligatoria:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetado"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto de plugin consiste en más de un archivo, pero los mismos no fueron empaquetados en una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete del plugin externo no contiene una carpeta con el slug deseado y el renombrado no ha funcionado."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar plugins obligatorios"
+
+#: inc/classes/class-inspiro-notice-review.php:87
+msgid "Leave us a review!"
+msgstr "¡Déjanos una reseña!"
+
+#: inc/theme-info-page.php:388
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/theme-info-page.php:498
+msgid "Inspiro Premium"
+msgstr "Inspiro Premium"
+
+#: inc/theme-info-page.php:22
+msgid "Inspiro Blocks Theme"
+msgstr "Tema Inspiro Blocks"
+
+#: functions.php:164
+msgid "Blog Posts"
+msgstr "Entradas del blog"
+
+#: functions.php:160
+msgid "Pages"
+msgstr "Páginas"
+
+#: functions.php:156
+msgid "Header"
+msgstr "Cabecera"
+
+#: functions.php:152
+msgid "Sections"
+msgstr "Secciones"
+
+#: functions.php:148
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:143
+msgid "inspiro-blocks"
+msgstr "inspiro-blocks"
+
+#: functions.php:113
+msgid "Outline Background"
+msgstr "Fondo del contorno"
+
+#: functions.php:112
+msgid "Outline"
+msgstr "Contorno"
+
+#: functions.php:111
+msgid "Fill Background"
+msgstr "Fondo de relleno"
+
+#: functions.php:110
+msgid "Fill"
+msgstr "Relleno"
+
+#: functions.php:104
+msgid "No Disc"
+msgstr "Sin disco"
+
+#: functions.php:98
+msgid "Pull left"
+msgstr "Enviar a la izquierda"
+
+#: functions.php:97
+msgid "Pull right"
+msgstr "Enviar a la derecha"
+
+#: functions.php:92
+msgid "Rounded"
+msgstr "Redondeadas"
+
+#: functions.php:89
+msgid "Full-height"
+msgstr "A altura completa"
+
+#: functions.php:88 functions.php:96
+msgid "Border"
+msgstr "Borde"
+
+#: functions.php:87 functions.php:95 functions.php:101 functions.php:107
+msgid "Shadow"
+msgstr "Sombra"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/"
+msgstr "https://www.wpzoom.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/themes/inspiro-blocks/"
+msgstr "https://www.wpzoom.com/themes/inspiro-blocks/"

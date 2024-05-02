@@ -1,0 +1,1891 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StoreFlex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-11 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: storeflex"
+
+#: inc/customizer/customizer-stater.php:203
+msgid "#"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:430
+msgid "$59.99"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:44
+#, php-format
+msgid "%1$s Dashboard"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:129
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. Now that you are part of us. We have "
+"curated some important links for you to get rolling."
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:69
+#, php-format
+msgid "%1$s Options"
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:153
+msgid "&mdash; Select a page &mdash;"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:89
+msgid ", "
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:449
+#: inc/admin/class-storeflex-dashboard.php:469
+#: inc/admin/class-storeflex-dashboard.php:474
+msgid "1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:392
+msgid "1 More Layout"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:396
+msgid "1 More Layouts"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:489
+msgid "10"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:394
+msgid "10 Arrow Icons"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:454
+#: inc/admin/class-storeflex-dashboard.php:475
+msgid "2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:403
+msgid "2 Footer Info Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:399
+msgid "2 Layouts for Author box"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:395
+msgid "2 More Header Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:399
+msgid "2 More Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "2 More Page Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "2 Out of Stocks Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "2 Product Page Layouts "
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "2 Sales Badge Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "2 Sales Ribbon Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:402
+msgid "2 Testimonial Layouts"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:450
+#: inc/admin/class-storeflex-dashboard.php:470
+msgid "3"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:398
+msgid "3 More Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:400
+msgid "3 More Page Layouts"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error.php:31
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:455
+msgid "5+"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:201
+msgid "50% Off Summer Collection"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:490
+msgid "600+"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:393
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:440
+msgid "9"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:391
+msgid "9 Styles"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom-hooks.php:513
+#, php-format
+msgid "<div class=\"storeflex-sale-percentage-badge\">%s OFF</div>"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:157
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:262
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:376
+msgid "A - Z"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:99
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:655
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:517
+msgid "Activate Now"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:516
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:516
+msgid "Activating"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:71
+msgid "Ad Block"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:85
+msgid "Ad Block Image"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:95
+msgid "Ad Block Image Link"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:197
+msgid "Add feature post"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:86
+msgid "Add Footer Info"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:109
+msgid "Add New Icon"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:129
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:110
+msgid "Add slider post"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:120
+msgid "Add social icon link."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom-hooks.php:252
+msgid "Add to cart"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:265
+msgid "Add to Wishlist"
+msgstr ""
+
+#: functions.php:134 functions.php:146 functions.php:158 functions.php:214
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:393
+msgid "Adjustable font size"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:226
+msgid "Advance Product Search"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:100
+msgid "Advance Search Option"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:394
+msgid "Alignment Options"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:384 inc/woocommerce/woocommerce.php:395
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:333
+msgid "All Pages"
+msgstr ""
+
+#: template-parts/frontpage/partials/content-product-carousel.php:32
+#: template-parts/frontpage/partials/content-product-grid.php:39
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:612
+msgid "All Products"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:95
+msgid "Archive and Blog Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:50
+msgid "Archive Post Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:31
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:134
+msgid "Avatar Image"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:139
+msgid "Avatar Name"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "Background Option for Out of Stock and Sales Ribbon "
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:395
+msgid "Background Options"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:241
+msgid "Banner Layout"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:453
+msgid "Banner Layouts"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:28
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:246
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:360
+msgid "Block Category"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:232
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:346
+msgid "Block Query"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:142
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:221
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:334
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:46
+msgid "Body"
+msgstr ""
+
+#: inc/template-functions.php:445
+#: inc/customizer/custom-controls/typography/class-typography-control.php:309
+#: inc/customizer/custom-controls/typography/class-typography-control.php:316
+msgid "Bold 700"
+msgstr ""
+
+#: inc/template-functions.php:449
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:29
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:29
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:443
+msgid "Breadcrumbs"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: template-parts/footer/partials/content-bottom-footer.php:28
+#, php-format
+msgid "Built with StoreFlex by %s"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:488
+msgid "Button link"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:293
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:477
+#: inc/customizer/sections/frontpage/banner.php:135
+#: inc/customizer/sections/frontpage/banner.php:217
+msgid "Button Text"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:364 inc/customizer/customizer.php:48
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:511
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:422
+msgid "Call to Action Block"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:436
+msgid "Call to Action Block Image"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:466
+msgid "Call to Action Title"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:446
+msgid "Call to Block Image Link"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:355
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:173
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:128
+msgid "Category Block"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:97
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:103
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:135
+msgid "Choose a avatar image for testimonial"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:583
+msgid "Choose atleast one category"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:78
+#: inc/customizer/sections/frontpage/banner.php:270
+#: inc/customizer/sections/general/preloader.php:101
+#: inc/customizer/sections/general/sidebar.php:75
+#: inc/customizer/sections/general/sidebar.php:123
+#: inc/customizer/sections/general/sidebar.php:172
+#: inc/customizer/sections/general/site-layout.php:56
+#: inc/customizer/sections/innerpage/archive.php:79
+msgid "Choose from available layouts"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:93
+#: inc/customizer/sections/general/social-icons.php:115
+msgid "Choose required icon from available list."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:305
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:233
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:347
+msgid "Click Icon to expand the fields."
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:312
+#: inc/admin/class-storeflex-dashboard.php:369
+msgid "Click to import demo"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:458
+msgid "Clone Block"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:397
+msgid "Clone Blocks"
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:204
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:113
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:192
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:304
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:407
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:497
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:175
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:394
+msgid "Color Option"
+msgstr ""
+
+#: inc/customizer/sections/general/color.php:29
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:77
+msgid "Column Layout"
+msgstr ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:46
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-storeflex-notice.php:126
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:199
+#: inc/admin/class-storeflex-dashboard.php:204
+msgid "Contact Support"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:67
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:74
+msgid "Copyright © StoreFlex {year}"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:483
+msgid "Custom 404 Page"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:401
+msgid "Custom Add to Cart Text"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:397
+msgid "Custom Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:404
+msgid "Custom Text Color and Background Color"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:154
+msgid "Customize your site"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:149
+msgid "Customizer quick link"
+msgstr ""
+
+#: inc/customizer/extend-customizer/class-customize-section.php:57
+msgid "Customizing"
+msgstr ""
+
+#: inc/customizer/extend-customizer/class-customize-section.php:55
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:52
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:650
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:224
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:73
+msgid "Default Styles"
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:203
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:174
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:166
+msgid "Demo"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:314
+#: inc/admin/class-storeflex-dashboard.php:371
+msgid "Demo importer plugin is not installed or activated"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:195
+msgid "Design"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:394
+msgid "Device visibility"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:123
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:176
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:150
+msgid "Done!"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:126 template-parts/content-page.php:44
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/single-post.php:54
+msgid "Enable Author box"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:50
+msgid "Enable Banner"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:104
+msgid "Enable Bottom Widget"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:51
+msgid "Enable Footer Info"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:51
+msgid "Enable Footer Main Area"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error.php:77
+msgid "Enable Homepage button"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Enable HomePage Content"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:50
+msgid "Enable Pre Loader"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:73
+msgid "Enable Primary Menu Description"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:183
+msgid "Enable Product Count"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/shop.php:79
+msgid "Enable Product Gallery on Hover"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/shop.php:56
+msgid "Enable Product Sales Badge"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/single-post.php:77
+msgid "Enable Related Post"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:50
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:78
+msgid "Enable Search Bar"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error.php:54
+msgid "Enable Search Box"
+msgstr ""
+
+#: inc/customizer/sections/general/site-layout.php:80
+msgid "Enable Site Mode Switcher"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:51
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:52
+msgid "Enable Social Icons In Footer"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:50
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:51
+msgid "Enable Testimonial"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:98
+msgid "Enable Woo Cart"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:125
+msgid "Enable YITH Wishlist"
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Enable/disable latest posts content in Home page."
+msgstr ""
+
+#: inc/template-functions.php:453
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/template-functions.php:457
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/template-functions.php:401
+msgid "Extra-Light 200"
+msgstr ""
+
+#: inc/template-functions.php:405
+msgid "Extra-Light 200 Italic"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:553
+msgid "F"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:196
+msgid "Feature Post"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:421
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:159
+msgid "Features Post Settings"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:554
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:393
+msgid "Font Color Option"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:63
+msgid "Font Decoration"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:59
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:61
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:62
+msgid "Font Transform"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:60
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:71
+msgid "Footer Area"
+msgstr ""
+
+#: functions.php:212
+msgid "Footer Bottom Widget"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer column four Widget Area"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer column one Widget Area"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer column three Widget Area"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer column two Widget Area"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:85
+msgid "Footer Information"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:28
+msgid "Footer Main Area"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:171
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/customizer-panels.php:90
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:28
+msgid "Footer Site Info"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:429
+msgid "Free"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:92
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:332
+msgid "Front Page Only"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:163
+#: inc/customizer/customizer-panels.php:62
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/fullwidth.php:49
+msgid "Full Width Section Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:25
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/fullwidth.php:30
+msgid "Fullwidth Section"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:493
+msgid "Fully WooCommerce Compatible"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:503
+msgid "GDPR Compatible"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:187
+msgid "General"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:141
+msgid "General Info"
+msgstr ""
+
+#: inc/customizer/customizer-panels.php:34
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:508
+msgid "Get access to all Pro features and power-up your website"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:151
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:228
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:228
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:191
+msgid "Go to doc"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:488
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:301
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:448
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-panels.php:48
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:57
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:49
+msgid "Hover Effect Option"
+msgstr ""
+
+#. Author URI of the theme
+#: template-parts/footer/partials/content-bottom-footer.php:25
+msgid "https://mysterythemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/storeflex/"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:549
+msgid "I"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:92
+#: inc/customizer/sections/general/social-icons.php:114
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:119
+msgid "Icon Link"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:318
+#: inc/admin/class-storeflex-dashboard.php:375
+msgid "Import"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:317
+#: inc/admin/class-storeflex-dashboard.php:374
+#, php-format
+msgid "Import %1$s"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:433
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:307
+#: inc/admin/class-storeflex-dashboard.php:355
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:306
+#: inc/admin/class-storeflex-dashboard.php:354
+#, php-format
+msgid "Imported %1$s"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:550
+msgid "Improvement"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:102
+msgid "Info Description"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:97
+msgid "Info Heading"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:103
+msgid "Information Description text"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:98
+msgid "Information text"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:84
+msgid "Informations On Footer"
+msgstr ""
+
+#: inc/template-functions.php:368 inc/template-functions.php:469
+#: inc/customizer/custom-controls/typography/class-typography-control.php:298
+#: inc/customizer/custom-controls/typography/class-typography-control.php:307
+#: inc/customizer/custom-controls/typography/class-typography-control.php:314
+#: inc/customizer/custom-controls/typography/class-typography-control.php:332
+#: inc/customizer/custom-controls/typography/class-typography-control.php:353
+#: inc/customizer/custom-controls/typography/class-typography-control.php:375
+msgid "Inherit"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:168
+#: inc/customizer/customizer-panels.php:76
+msgid "Inner Page Settings"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:510
+#: inc/admin/class-storeflex-dashboard.php:645
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:509
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:509
+msgid "Installing & Activating"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:49
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:334
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:273
+#: inc/customizer/customizer-helper.php:357
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:277
+#: inc/customizer/customizer-helper.php:361
+msgid "Layout 2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:365
+msgid "Layout 3"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:369
+msgid "Layout 4"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:109
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:222
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:335
+msgid "Leave blank to display category name."
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:294
+msgid "Leave blank to hide button."
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:143
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:467
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:478
+msgid "Leave blank to hide title."
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:120
+msgid "Leave us a reivew"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:133
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/template-functions.php:409
+msgid "Light 300"
+msgstr ""
+
+#: inc/template-functions.php:413
+msgid "Light 300 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:51
+msgid "Light Mode"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:377
+msgid "Line-through"
+msgstr ""
+
+#: inc/customizer/sections/general/color.php:91
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/sections/general/color.php:109
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:309
+msgid "List"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:96
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:225
+msgid "Live Search"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:199
+msgid "Logo & Site Icon"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:74
+msgid "Logo or GIF"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:241
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:354
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:28
+msgid "Main Area"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:160
+msgid "Manage Header"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:174
+msgid "Manage menus"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:177
+msgid "Manage widgets"
+msgstr ""
+
+#: inc/template-functions.php:429
+msgid "Medium 500"
+msgstr ""
+
+#: inc/template-functions.php:433
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:463
+msgid "Middle Content Block"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:397
+msgid "Middle Content Section with Sidebar"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:102
+msgid "More Features With Pro"
+msgstr ""
+
+#: inc/customizer/sections/footer/footer-info.php:125
+#: inc/customizer/sections/footer/main-area.php:126
+#: inc/customizer/sections/footer/testimonial.php:166
+#: inc/customizer/sections/frontpage/banner.php:292
+#: inc/customizer/sections/frontpage/fullwidth.php:74
+#: inc/customizer/sections/general/preloader.php:147
+#: inc/customizer/sections/general/scroll-top.php:71
+#: inc/customizer/sections/general/social-icons.php:142
+#: inc/customizer/sections/general/typography.php:290
+#: inc/customizer/sections/header/main-area.php:147
+#: inc/customizer/sections/innerpage/archive.php:101
+#: inc/customizer/sections/innerpage/error.php:98
+#: inc/customizer/sections/innerpage/shop.php:100
+#: inc/customizer/sections/innerpage/single-post.php:98
+msgid "More features with StoreFlex Pro"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:478
+msgid "Multiple Post Layouts"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:515
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:508
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:545
+msgid "N"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:546
+msgid "New"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:260
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:374
+msgid "Newest - Oldest"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:506
+msgid "No block defined "
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:275
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:189
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:666
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:160
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:137
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:141
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:164
+msgid "None"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:333
+msgid "Normal"
+msgstr ""
+
+#: inc/template-functions.php:417
+#: inc/customizer/custom-controls/typography/class-typography-control.php:308
+#: inc/customizer/custom-controls/typography/class-typography-control.php:315
+msgid "Normal 400"
+msgstr ""
+
+#: inc/template-functions.php:421 inc/template-functions.php:425
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:168
+msgid "Number of Category"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:273
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:387
+msgid "Number of product"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:392
+msgid "Official Color"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:261
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:375
+msgid "Oldest - Newest"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:165
+msgid "One"
+msgstr ""
+
+#. 1: title.
+#: comments.php:40
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:105
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:456
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:75
+msgid "Open Links in new tab"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:54
+msgid "Opening hours"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:171
+#: inc/admin/class-storeflex-notice.php:181
+msgid "opens in a new tab"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:46
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content.php:80
+msgid "Pages:"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:87
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:205
+msgid "Plugin activated successfully"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:80
+#: inc/admin/class-storeflex-admin.php:178
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:106
+msgid "Plugin Successfully Activated."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:121
+msgid "Post Description"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:116
+#: inc/customizer/sections/frontpage/banner.php:207
+msgid "Post Heading"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:131
+#: inc/customizer/sections/frontpage/banner.php:203
+msgid "Post Image"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/innerpage-section.php:28
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:143
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:126
+#: inc/customizer/sections/frontpage/banner.php:212
+msgid "Post Url"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:92
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:28
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:195
+msgid "Posts on Features post"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:108
+msgid "Posts On Slider"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:153
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:256
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:370
+msgid "Posts Order by"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:100
+msgid "Pre Loader"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:28
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:72
+msgid "Preloader Choices"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:438
+msgid "Preloaders"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:428
+msgid "Price"
+msgstr ""
+
+#: inc/customizer/sections/general/color.php:49
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:150
+msgid "Processing"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:319
+msgid "Product Carousel"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:206
+msgid "Product Grid"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:473
+msgid "Product Page Layouts"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:68
+msgid "Products"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:363
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:159
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:264
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:378
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:399
+msgid "Range for Related Post"
+msgstr ""
+
+#: inc/admin/class-storeflex-notice.php:181
+msgid "Read full documentation"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom-hooks.php:243
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:29
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:635
+msgid "Recommended Free Plugins"
+msgstr ""
+
+#: template-parts/innerpage/partials/content-related-post.php:36
+msgid "Related Posts"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:570
+#, php-format
+msgid "Released on: %1$s"
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:184
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:670
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:155
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:225
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:225
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:129
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:132
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:28
+msgid "Scroll Top"
+msgstr ""
+
+#. %s: search query.
+#: search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:129
+msgid "Select how you want your body fonts to appear."
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:197
+msgid "Select how you want your heading fonts to appear."
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:267
+msgid "Select how you want your products fonts to appear."
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:187
+msgid "Select how you want your site tagline fonts to appear."
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:129
+msgid "Select how you want your site title fonts to appear."
+msgstr ""
+
+#: inc/customizer/custom-controls/banner-repeater/class-banner-repeater-control.php:183
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:673
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:154
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:249
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/template-functions.php:437
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/template-functions.php:441
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:157
+msgid "Setup Site Layout"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:154
+msgid "Setup Site Logo"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:185
+#: inc/customizer/customizer-stater.php:202
+msgid "Shop Now"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:468
+msgid "Shop Page Layouts"
+msgstr ""
+
+#: functions.php:156
+msgid "Shop Page sidebar"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/shop.php:31
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:28
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/single-post.php:31
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:30
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/sections/general/site-layout.php:28
+#: inc/customizer/sections/general/site-layout.php:55
+msgid "Site Layout"
+msgstr ""
+
+#: template-parts/header/partials/content-site-mode.php:23
+msgid "site mode button"
+msgstr ""
+
+#: inc/customizer/sections/general/site-layout.php:106
+msgid "Site Mode Option"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:152
+msgid "Site Tagline Typography"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:41
+msgid "Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/sections/header/site-identity.php:94
+msgid "Site Title Typography"
+msgstr ""
+
+#: header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:109
+msgid "Slider Post"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:72
+msgid "Slider Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:108
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icons.php:28
+#: inc/customizer/sections/general/social-icons.php:107
+msgid "Social Icons"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:191
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:24
+#: inc/admin/class-storeflex-admin.php:121
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:396
+msgid "Sortable Banner"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:82
+#: inc/admin/class-storeflex-notice.php:171
+msgid "Stater Sites"
+msgstr ""
+
+#. Name of the theme
+msgid "StoreFlex"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:422
+msgid "StoreFlex Free"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"StoreFlex is one of the best themes designed and developed for those who "
+"want to succeed in their niche. With extensive development, design, and "
+"research, the theme is integrated with some of the much-needed features yet "
+"has a unique design that is the perfect fit for your online business. The "
+"theme perfectly integrates with WooCommerce, giving you the ability to "
+"properly customize and bring out the best from your e-commerce store.With "
+"various color options, layout options, and design options, you can create "
+"the best browsing experience for your customers.What's more, StoreFlex is "
+"built with responsiveness in mind, has multiple widget options, and is "
+"optimized for the search engines so that you can increase your site's "
+"traffic and click-through rates. Check out our pre-build demos here: https:"
+"//preview.mysterythemes.com/storeflex-demos/. For Detailed Tutorial video "
+"please visit:https://youtu.be/JaOcPz3Ma9Y"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:423 inc/customizer/customizer.php:47
+msgid "StoreFlex Pro"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:97
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:101
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:105
+msgid "Style 3"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:123
+msgid "Submit a review"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:557
+msgid "T"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:99
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:71
+#: inc/customizer/sections/footer/testimonial.php:128
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:93
+msgid "Testimonial Display"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:28
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:127
+#: inc/customizer/sections/footer/testimonial.php:144
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/sections/general/color.php:69
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:140
+msgid "Text Field for avatar name"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:186
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:636
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: inc/template-functions.php:393
+msgid "Thin 100"
+msgstr ""
+
+#: inc/template-functions.php:397
+msgid "Thin 100 Italic"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:136
+#: inc/customizer/sections/frontpage/banner.php:218
+msgid "This section display button text"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:122
+msgid "This section display description about your post"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:117
+#: inc/customizer/sections/frontpage/banner.php:208
+msgid "This section display heading in post"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:127
+#: inc/customizer/sections/frontpage/banner.php:213
+msgid "This section navigate to post"
+msgstr ""
+
+#: inc/customizer/sections/footer/testimonial.php:68
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:29
+msgid "Top Area"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:51
+msgid "Top Header Area Text Field"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:212
+msgid "Tutorial"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:558
+msgid "Tweak"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:35
+msgid "Typography"
+msgstr ""
+
+#: inc/template-functions.php:461
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/template-functions.php:465
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:62
+#: inc/admin/class-storeflex-admin.php:159
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:376
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:403
+msgid "Unlimited Footer Info"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:396
+msgid "Unlimited Slider and Features Post"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:392
+msgid "Unlimited Social Icons"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:402
+msgid "Unlimited Testimonial Posts"
+msgstr ""
+
+#: inc/customizer/custom-controls/upgrade/class-upgrade-control.php:84
+msgid "upgrade to pro"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:122
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:125
+msgid "Upload your image or logo to be displayed as a preloader"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:356
+msgid "Uppercase"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:672
+#, php-format
+msgid "Version %1$s"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:70
+#: inc/admin/class-storeflex-dashboard.php:569
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:324
+#: inc/admin/class-storeflex-dashboard.php:382
+msgid "View Demo"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:116
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/innerpage/partials/content-author-box.php:40
+msgid "Website: "
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:77
+msgid "Welcome"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/innerpage-section.php:38
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:498
+msgid "WordPress Page builder Compatible"
+msgstr ""
+
+#: inc/admin/class-storeflex-dashboard.php:217
+msgid "WP Tutorials"
+msgstr ""
+
+#: inc/admin/class-storeflex-admin.php:504
+msgid "You can import available demos now!"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:158
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:263
+#: inc/customizer/custom-controls/blocks-repeater/class-blocks-repeater-control.php:377
+msgid "Z - A"
+msgstr ""
